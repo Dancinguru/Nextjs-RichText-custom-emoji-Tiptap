@@ -1,0 +1,1 @@
+# Nextjs-RichText-custom-emoji-Tiptap
