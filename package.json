@@ -1,0 +1,35 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "info": "0.0.6-beta.0"
+  },
+  "dependencies": {
+    "@syncfusion/ej2-base": "24.2.7",
+    "@syncfusion/ej2-buttons": "24.2.7",
+    "@syncfusion/ej2-documenteditor": "24.2.8",
+    "@syncfusion/ej2-icons": "24.2.3",
+    "@syncfusion/ej2-lists": "24.2.8",
+    "@syncfusion/ej2-navigations": "24.2.8",
+    "@syncfusion/ej2-pivotview": "24.2.8",
+    "@syncfusion/ej2-react-base": "24.2.7",
+    "@syncfusion/ej2-react-popups": "24.2.8",
+    "@syncfusion/ej2-react-richtexteditor": "24.2.8",
+    "@syncfusion/ej2-richtexteditor": "24.2.8",
+    "@syncfusion/ej2-splitbuttons": "24.2.7",
+    "codemirror": "^6.65.7",
+    "@emoji-mart/data": "^1.1.2",
+    "@emoji-mart/react": "^1.1.1",
+    "emoji-mart": "^5.5.2",
+    "next": "^14.1.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "20.4.5",
+    "@types/react": "18.2.18",
+    "typescript": "5.1.3"
+  }
+}
