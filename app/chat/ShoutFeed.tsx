@@ -64,6 +64,13 @@ export default async function ShoutFeed({ type }) {
           <p className="text-gray-500 dark:text-gray-400">{s?.message}</p>
         </div>
       ))}
+
+    <div>
+      <h1>this is h1...</h1>
+      <h2>this is h2...</h2>
+      <p>this is p...</p>
+      <p><strong>this is bold...</strong></p>
+    </div>
     </div>
   );
 }

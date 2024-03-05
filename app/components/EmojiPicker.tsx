@@ -1,7 +1,7 @@
 import React from "react";
 import data from "@emoji-mart/data";
 import Picker from "@emoji-mart/react";
-import Modal from "./modal";
+import Modal from "./react";
 import { useState } from "react";
 
 interface EmojiMartProps {
