@@ -21,6 +21,7 @@ const Modal: React.FC<Props> = ({
 }) => {
   const submitButton = () => {
     if (submit) submit();
+    debugger;
     setShow(false);
   };
 
@@ -36,9 +37,7 @@ const Modal: React.FC<Props> = ({
                 {title && (
                   <div className="flex items-start justify-between p-5 border-b border-solid border-slate-200 rounded-t">
                     <h6
-                      className={classNames(
-                        "text-3xl font-semibold text-gray-800",
-                      )}
+                      className="text-3xl font-semibold text-gray-800"
                     >
                       {title}
                     </h6>
